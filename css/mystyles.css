@@ -1,0 +1,28 @@
+.color {
+    background-color: blanchedalmond;
+    color: brown;
+}
+
+.bobo {
+    background-color: orange;
+}
+.fofo {
+    background-color: blanchedalmond;
+    height: 250px;
+    padding-bottom: 20px;
+}
+.font {
+
+    color: brown;
+}
+.font h4 p a{
+    font-size: xx-small;
+    font-weight: lighter;
+}
+.icoco {
+    border: brown;
+}
+.copycopy {
+    background-color: wheat;
+    color: brown;
+}
